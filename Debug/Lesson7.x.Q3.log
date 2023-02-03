@@ -1,0 +1,8 @@
+﻿  io.cpp
+  main.cpp
+C:\Users\Boris\source\repos\Lesson7.x.Q3\Lesson7.x.Q3\main.cpp(12,39): error C2955: 'std::uniform_int_distribution': use of class template requires template argument list
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\random(1881,1): message : see declaration of 'std::uniform_int_distribution'
+C:\Users\Boris\source\repos\Lesson7.x.Q3\Lesson7.x.Q3\main.cpp(12,53): error C2514: 'std::uniform_int_distribution': class template cannot be constructed
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\random(1881,1): message : see declaration of 'std::uniform_int_distribution'
+  numbers.cpp
+  Generating Code...
