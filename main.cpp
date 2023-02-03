@@ -5,7 +5,6 @@ int main()
 {
     print_welcome();
     bool running{ true };
-   
 
     while (running)
     {
