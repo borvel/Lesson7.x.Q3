@@ -6,7 +6,6 @@ namespace Random {
     std::mt19937 mt{ rd() };
     int get(int min, int max)
     {
-
         std::uniform_int_distribution num{ min, max };
         return num(mt);
     }
